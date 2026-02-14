@@ -82,6 +82,7 @@ section{
   justify-content: space-between;
   gap: 3px;
   padding-top: 30px;
+  padding-bottom: 110px;
 }
 .hero__info {
   max-width: 460px;
@@ -107,7 +108,7 @@ section{
   line-height: 54px;
   text-align: center;
   color: var(--color-brown);
-  margin: 54px 320px;
+  padding: 54px 320px;
 }
 /* ----TOOLS----- */
 .tools{
