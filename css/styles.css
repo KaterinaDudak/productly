@@ -71,9 +71,7 @@ section{
   color: var(--color-brown);
 }
 .menu__item:hover .menu__link {
-  color: var(--color-brown-dark);
-  text-decoration: underline;
-  font-weight: 600;
+  color: var(--color-accent);
   cursor: pointer;
 }
 /* -------- HERO--------- */
